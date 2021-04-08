@@ -1,6 +1,3 @@
-[submodule "themes/Academia"]
-	path = themes/Academia
-	url = https://github.com/PhosphorW/hexo-theme-academia.git
 [submodule "hexo-theme-academia"]
 	path = hexo-theme-academia
 	url = https://github.com/PhosphorW/hexo-theme-academia.git
