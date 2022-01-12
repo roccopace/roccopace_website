@@ -23,3 +23,14 @@ Alpaidze L, Pace R (2021) Ecosystem Services Provided by Urban Forests in the So
 
 Pace R, Masini E, Giuliarelli D, Biagiola L, Tomao A, Guidolotti G, Agrimi M, Portoghesi L, De Angelis P, Calfapietra, C. (accepted) Tree measurements in the urban environment: insights from traditional and digital field instruments to smartphone applications. Arboriculture & Urban Forestry. Preprint: https://doi.org/10.32942/osf.io/jf2as
 
+
+## Other publications
+Pace R, De Angelis P, Sconoscchia A (2016) Database bibliografico "Hydrocarbons Phytoremediation" - Supporto allo sviluppo di approcci fitotecnologici per la bonifica di siti contaminati da idrocarburi. Recover Magazine n°36. http://www.recoverweb.it/recover-magazine-36-settembre-2016/
+
+Pace R, Churkina G, Rivera M (2016) How green is a “ Green City ”? A review of existing indicators and approaches. IASS Working Paper. https://doi.org/10.2312/iass.2016.035
+
+Pace R (2019) La modellistica applicata agli alberi in ambiente urbano per ottimizzare la scelta della specie. Arbor - Società Italiana di Arboricoltura (SIA).
+
+Pace R (2020) Come scegliere gli alberi in città? Magazine “Il Giardinere” n° 022.
+
+Pace R (2020) Modeling ecosystem services of urban trees to improve air quality and microclimate. PhD Thesis, Technische Universität München. https://mediatum.ub.tum.de/1548491 
