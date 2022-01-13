@@ -6,7 +6,7 @@ academia: true
 
 -   _Dec 2021_
     __Habilitation to practice as Agronomist and Forester__
-    State Exam held, University of Tuscia, Viterbo, Italy
+    State Exam, University of Tuscia, Viterbo, Italy
     Habilitation: _“Dottore Forestale”_
 
 -   _Nov 2016 - Dec 2020_
