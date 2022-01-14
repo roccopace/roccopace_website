@@ -11,9 +11,9 @@ academia: true
 
 **Pace R**, Grote R (2020) Deposition and Resuspension Mechanisms Into and From Tree Canopies: A Study Modeling Particle Removal of Conifers and Broadleaves in Different Cities. _Frontiers in Forest and Global Change_ 3:26. https://doi.org/10.3389/ffgc.2020.00026
 
-**Capotorti G**, Bonacquisti S, Abis L,…Pace R, et al (2020) More Nature in the City. _Plant Biosystems - An Int J Deal with all Asp Plant Biol_ 0:1–8. https://doi.org/10.1080/11263504.2020.1837285
+Capotorti G, Bonacquisti S, Abis L,…**Pace R**, et al (2020) More Nature in the City. _Plant Biosystems - An Int J Deal with all Asp Plant Biol_ 0:1–8. https://doi.org/10.1080/11263504.2020.1837285
 
-Zhang J, Ghirardo A, Gori A,…**Pace R**, et al (2020) Improving Air Quality by Nitric Oxide Consumption of Climate-Resilient Trees Suitable for Urban Greening. _Frontiers in Plant Science_ 11:1–12. https://doi.org/10.3389/fpls.2020.549913
+Zhang J, Ghirardo A, Gori A, Albert A, Buegger F, **Pace R**, Georgii E, Grote R, Schnitzler J-P, Durner J, Lindermayr C (2020) Improving Air Quality by Nitric Oxide Consumption of Climate-Resilient Trees Suitable for Urban Greening. _Frontiers in Plant Science_ 11:1–12. https://doi.org/10.3389/fpls.2020.549913
 
 **Pace R**, De Fino F, Rahman MA, Pauleit S, Nowak DJ, Grote R. (2021) A single tree model to consistently simulate cooling, shading, and pollution uptake of urban trees. _International Journal of Biometeorology_ 65:277–289. https://doi.org/10.1007/s00484-020-02030-8
 
