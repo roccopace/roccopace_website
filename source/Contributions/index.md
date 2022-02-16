@@ -13,6 +13,8 @@ Muresan AN, Gaglio M, **Pace R**, Calfapietra C, Fano EA (2021) Un indice per va
 
 Ciolfi M, Chiocchini F, Sarti M, **Pace R**, Paris P, Lauteri M (2021) Quick and easy indices assessment: exploiting the Google Earth Engine platform to detect peri-urban land cover changes. _X AIT International Conference - Italian Society of Remote Sensing, Cagliari, 13-15 Sept 2021_. [poster]
 
+**Pace R** (2021) Il supporto dei modelli alla pianificazione degli alberi e foreste urbane. _Progetto Ossigeno (ARDAF-OADAF), Webinar, 22 July 2021_. [oral presentation]
+
 Alpaidze L, **Pace R** (2021) Ecosystem services provided by urban forests in the Southern Caucasus region: a modeling study in Tbilisi, Georgia. _Third World Conference of the Society for Urban Ecology, 7-9 July 2021_. [oral presentation]
 
 Gaglio M, **Pace R**, Muresan AN, Vincenzi F, Calfapietra C, Fano EA (2020) Regulating services of urban parks and tree-line streets in 3 cities of Northern Italy with different species compositions. _115° Congresso della Società Botanica Italiana (SBI), 9-11 Sept 2020_. [oral presentation]
