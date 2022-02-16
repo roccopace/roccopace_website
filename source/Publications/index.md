@@ -23,6 +23,7 @@ Alpaidze L, **Pace R** (2021) Ecosystem Services Provided by Urban Forests in th
 
 **Pace R**, Masini E, Giuliarelli D, Biagiola L, Tomao A, Guidolotti G, Agrimi M, Portoghesi L, De Angelis P, Calfapietra, C. (accepted) Tree measurements in the urban environment: insights from traditional and digital field instruments to smartphone applications. _Arboriculture & Urban Forestry_. Preprint: https://doi.org/10.32942/osf.io/jf2as
 
+Ciolfi M, Chiocchini F, **Pace R**, Russo G, Lauteri M. (accepted) Timescape: A Novel Spatiotemporal Modeling Tool. _Earth_. Preprint: https://www.preprints.org/manuscript/202112.0404
 
 ## Other publications
 **Pace R**, De Angelis P, Sconoscchia A (2016) Database bibliografico "Hydrocarbons Phytoremediation" - Supporto allo sviluppo di approcci fitotecnologici per la bonifica di siti contaminati da idrocarburi. _Recover Magazine_ n°36. http://www.recoverweb.it/recover-magazine-36-settembre-2016/
@@ -31,6 +32,6 @@ Alpaidze L, **Pace R** (2021) Ecosystem Services Provided by Urban Forests in th
 
 **Pace R** (2019) La modellistica applicata agli alberi in ambiente urbano per ottimizzare la scelta della specie. _Arbor - Società Italiana di Arboricoltura (SIA)_. https://www.researchgate.net/publication/334883845_La_modellistica_applicata_agli_alberi_in_ambiente_urbano_per_ottimizzare_la_scelta_della_specie
 
-**Pace R** (2020) Come scegliere gli alberi in città? _“Il Giardinere” Magazine_ n° 022. https://issuu.com/edizionilaboratorioverde/docs/022_il_giardiniere
+**Pace R** (2020) Come scegliere gli alberi in città? _“Il Giardinere” Magazine_ n° 022. https://www.researchgate.net/publication/342453151_Come_scegliere_gli_alberi_in_citta
 
 **Pace R** (2020) Modeling ecosystem services of urban trees to improve air quality and microclimate. _PhD Thesis, Technische Universität München_. https://mediatum.ub.tum.de/1548491 
