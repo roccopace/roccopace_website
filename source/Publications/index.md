@@ -29,8 +29,8 @@ Alpaidze L, **Pace R** (2021) Ecosystem Services Provided by Urban Forests in th
 
 **Pace R**, Churkina G, Rivera M (2016) How green is a “ Green City ”? A review of existing indicators and approaches. _IASS Working Paper_. https://doi.org/10.2312/iass.2016.035
 
-**Pace R** (2019) La modellistica applicata agli alberi in ambiente urbano per ottimizzare la scelta della specie. _Arbor - Società Italiana di Arboricoltura (SIA)_.
+**Pace R** (2019) La modellistica applicata agli alberi in ambiente urbano per ottimizzare la scelta della specie. _Arbor - Società Italiana di Arboricoltura (SIA)_. https://www.researchgate.net/publication/334883845_La_modellistica_applicata_agli_alberi_in_ambiente_urbano_per_ottimizzare_la_scelta_della_specie
 
-**Pace R** (2020) Come scegliere gli alberi in città? _“Il Giardinere” Magazine_ n° 022.
+**Pace R** (2020) Come scegliere gli alberi in città? _“Il Giardinere” Magazine_ n° 022. https://issuu.com/edizionilaboratorioverde/docs/022_il_giardiniere
 
 **Pace R** (2020) Modeling ecosystem services of urban trees to improve air quality and microclimate. _PhD Thesis, Technische Universität München_. https://mediatum.ub.tum.de/1548491 
