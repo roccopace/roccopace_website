@@ -11,6 +11,7 @@ academia: true
 
 -   _Nov 2016 - Dec 2020_
     __PhD (Dr. rer. nat.), Technical University of Munich (TUM), Munich, Germany__
+    Score: Magna cum laude
     Thesis: _Modeling ecosystem services of urban trees to improve air quality and microclimate_ https://mediatum.ub.tum.de/1548491
     Supervisors: _Dr. Rüdiger Grote_, _Prof. Dr. Hans Pretzsch_, _Prof. Dr. Stephan Pauleit_
 
