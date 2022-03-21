@@ -17,6 +17,8 @@ Ciolfi M, Chiocchini F, Sarti M, **Pace R**, Paris P, Lauteri M (2021) Quick and
 
 Alpaidze L, **Pace R** (2021) Ecosystem services provided by urban forests in the Southern Caucasus region: a modeling study in Tbilisi, Georgia. _Third World Conference of the Society for Urban Ecology, 7-9 July 2021_. [oral presentation]
 
+**Pace R** (2021) Evaluating i-Tree Eco: outputs, uncertainties and model limitations. _The Nature of Cities (TNOC) Festival, Seed Session: Urban Trees and Citizens: Exploring Co-Living Benefits with i-Tree Toolbox in Europe, 22-26 Febr 2021_. [oral presentation]
+
 Gaglio M, **Pace R**, Muresan AN, Vincenzi F, Calfapietra C, Fano EA (2020) Regulating services of urban parks and tree-line streets in 3 cities of Northern Italy with different species compositions. _115° Congresso della Società Botanica Italiana (SBI), 9-11 Sept 2020_. [oral presentation]
 
 **Pace R**, Guidolotti G, Baldacchini C, Calfapietra C (2019) Comparing the modeled deposition of PM2.5 with the eddy covariance flux and SEM analysis of an urban forest in Naples. La scienza utile per le foreste: ricerca e trasferimento. _XII Congresso Nazionale SISEF, Palermo (Italy), 12-15 Nov 2019_. [oral presentation]
