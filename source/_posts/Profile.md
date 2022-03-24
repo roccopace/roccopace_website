@@ -5,7 +5,7 @@ academia: true
 ---
 ## Research Interests
 
-My research interests are forest modeling and tree ecophysiology. I'm working on ecosystem services of urban trees to improve air quality and microclimate. The aim is to find suitable nature-based solutions to mitigate climate change and air pollution effects improving the environmental sustainability of cities.
+My research interests are in urban forest modeling and tree ecophysiology. I'm working on ecosystem services of urban trees to improve air quality and microclimate. The aim is to find suitable nature-based solutions to mitigate climate change and air pollution effects improving the environmental sustainability of cities.
 ``` bash
 Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechnologies - Green Cities
 ```
