@@ -35,3 +35,4 @@ Capotorti G, Bonacquisti S, Abis L,…**Pace R**, et al (2020) More Nature in th
 **Pace R**, Churkina G, Rivera M (2016) How green is a “ Green City ”? A review of existing indicators and approaches. _IASS Working Paper_. https://doi.org/10.2312/iass.2016.035
 
 **Pace R**, De Angelis P, Sconoscchia A (2016) Database bibliografico "Hydrocarbons Phytoremediation" - Supporto allo sviluppo di approcci fitotecnologici per la bonifica di siti contaminati da idrocarburi. _Recover Magazine_ n°36. http://www.recoverweb.it/recover-magazine-36-settembre-2016/
+
