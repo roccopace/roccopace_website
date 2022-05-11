@@ -23,7 +23,7 @@ Capotorti G, Bonacquisti S, Abis L,…**Pace R**, et al (2020) More Nature in th
 
 **Pace R**, Liberati D, Sconocchia P, De Angelis P (2020) Lead transfer into the vegetation layer growing naturally in a Pb-contaminated site. _Environmental Geochemestry and Health_ 42:2321–2329. https://doi.org/10.1007/s10653-019-00429-w
 
-**Pace R**, Biber P, Pretzsch H, Grote R (2018) Modeling ecosystem services for park trees: Sensitivity of i-tree eco simulations to light exposure and tree species classification. _Forests_ 9:1–18. https://doi.org/10.3390/f9020089
+**Pace R**, Biber P, Pretzsch H, Grote R (2018) Modeling ecosystem services for park trees: Sensitivity of i-Tree Eco simulations to light exposure and tree species classification. _Forests_ 9:1–18. https://doi.org/10.3390/f9020089
 
 ## Other publications
 **Pace R** (2020) Modeling ecosystem services of urban trees to improve air quality and microclimate. _PhD Thesis, Technische Universität München_. https://mediatum.ub.tum.de/1548491 
@@ -35,4 +35,3 @@ Capotorti G, Bonacquisti S, Abis L,…**Pace R**, et al (2020) More Nature in th
 **Pace R**, Churkina G, Rivera M (2016) How green is a “ Green City ”? A review of existing indicators and approaches. _IASS Working Paper_. https://doi.org/10.2312/iass.2016.035
 
 **Pace R**, De Angelis P, Sconoscchia A (2016) Database bibliografico "Hydrocarbons Phytoremediation" - Supporto allo sviluppo di approcci fitotecnologici per la bonifica di siti contaminati da idrocarburi. _Recover Magazine_ n°36. http://www.recoverweb.it/recover-magazine-36-settembre-2016/
-
