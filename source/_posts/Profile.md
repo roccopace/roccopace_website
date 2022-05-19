@@ -12,7 +12,14 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
 
 ## Research Experience
 
--   *since May 2020*
+-   *since May 2022*
+    **Postdoctoral researcher 
+    Karlsruhe Institute of Technology (KIT), Institute of Meteorology and Climate Research (IMK-IFU), Garmisch-Partenkirchen, Germany**
+    GrüneLunge project
+    https://www.projekt-gruenelunge.de/
+    Supervisor: _Dr. Rüdiger Grote_
+
+-   *May 2020 - May 2022*
     **Research Fellow 
     National Research Council (CNR), Research Institute on Terrestrial Ecosystems (IRET), Porano, TR, Italy**
     Implementation and validation of a model to estimate the deposition of air pollutants based on the morphological and physiological characteristics of trees as well as on microclimatic conditions considering also extreme climatic events.
@@ -35,7 +42,7 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
     Karlsruhe Institute of Technology (KIT), Institute of Meteorology and Climate Research (IMK-IFU), Garmisch-Partenkirchen, Germany**
     _Completion of the Helmholtz Graduate School KIT-GRACE (Graduate School for Climate and Environment) qualification program_
     Green2clean project aimed to determine the impact of urban trees on temperature and air quality in three European cities: Munich, Berlin, and Rome. The model-based investigation includes scenario analyses regarding plant species selection and green space distribution to optimize climate and air quality under current and future conditions.
-    Supervisor: _Dr. Ruediger Grote_
+    Supervisor: _Dr. Rüdiger Grote_
 
 -   *Apr - Aug 2016*    
     **Erasmus traineeship / Research Fellow
