@@ -5,6 +5,13 @@ academia: true
 ---
 
 ## Conferences & Meetings
+Gaglio M, **Pace R**, Muresan AN, Grote R, Castadelli G, Calfapietra C, Fano EA
+Efficienza specie-specifica nella rimozione del PM2.5 da parte degli alberi urbani: dalla misura sperimentale dell’accumulo di particolato alla stima modellistica basata sui tratti fogliari. _XIII National Congress SISEF, Orvieto (TR), 30 May - 2 Jun 2022 _. [oral presentation]
+
+**Pace R**, Chiocchini F, Sarti M, Chiocchini R, Ferrara A, Endreny TA, Calfapietra C, Ciolfi M (2022) Assessing the effects of tree cover on urban heat mitigation and population health. _XIII National Congress SISEF, Orvieto (TR), 30 May - 2 Jun 2022 _. [oral presentation]
+
+**Pace R**, Masini E, Giuliarelli D, Biagiola L, Tomao A, Guidolotti G, Agrimi M, Portoghesi L, De Angelis P, Calfapietra, C (2022) Misurazioni degli alberi in ambito urbano: analisi e confronto sull’utilizzo di strumenti tradizionali, digitali e applicazioni per smartphone. _XIII National Congress SISEF, Orvieto (TR), 30 May - 2 Jun 2022 _. [poster]
+
 **Pace R**, Calfapietra C (2021) Il contributo degli alberi e foreste urbane alla rimozione del particolato atmosferico. _Remtech Expo, Ferrara, 20-24 Sept 2021_. [oral presentation]
 
 Muresan AN, Gaglio M, **Pace R**, Calfapietra C, Fano EA (2021) Un indice per valutare l’effetto dei tratti fogliari sulla rimozione del PM2,5: dati sperimentali per migliorare le performace di i-Tree Eco. _Remtech Expo, Ferrara, 20-24 Sept 2021_. [poster]
