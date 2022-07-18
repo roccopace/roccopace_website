@@ -5,6 +5,8 @@ academia: true
 ---
 
 ## Peer-reviewed articles
+Gaglio M, **Pace R**, Muresan AN, Grote R, Castaldelli G, Calfapietra C, Fano EA. (2022) Species-specific efficiency in PM2.5 removal by urban trees: From leaf measurements to improved modeling estimates. _Science of The Total Environment_ 844. https://doi.org/10.1016/j.scitotenv.2022.157131
+
 **Pace R**, Masini E, Giuliarelli D, Biagiola L, Tomao A, Guidolotti G, Agrimi M, Portoghesi L, De Angelis P, Calfapietra, C. (2022) Tree measurements in the urban environment: insights from traditional and digital field instruments to smartphone applications. _Arboriculture & Urban Forestry_ 48(2):113-123. https://doi.org/10.48044/jauf.2022.009
 
 Ciolfi M, Chiocchini F, **Pace R**, Russo G, Lauteri M. (2022) Timescape: A Novel Spatiotemporal Modeling Tool. _Earth_ 3(1):259-286. https://doi.org/10.3390/earth3010017
