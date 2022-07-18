@@ -17,7 +17,8 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
     Karlsruhe Institute of Technology (KIT), Institute of Meteorology and Climate Research (IMK-IFU), Garmisch-Partenkirchen, Germany**
     GrüneLunge project 2.0 - Transformation towards resilient urban forests
     https://www.projekt-gruenelunge.de/en/gr%C3%BCnelunge-2-0-since-2021/
-    Supervisor: _Dr. Rüdiger Grote_
+    KIT Profile: https://www.imk-ifu.kit.edu/english/staff_Rocco.Pace.php
+    Plant Ecophysiology Lab: https://ecophys.imk-ifu.kit.edu/ 
 
 -   *May 2020 - May 2022*
     **Research Fellow 
