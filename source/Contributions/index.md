@@ -5,6 +5,10 @@ academia: true
 ---
 
 ## Conferences & Meetings
+**Pace R**, Ciolfi M, Chiocchini F, Gangwisch M, Rühr, Grote R (2022) A multilevel approach to assess the impact of drought on urban tree physiology and ecosystem services: a case study on the city of Karlsruhe. _ForestSAT, Freie Universität Berlin, Berlin, Aug 29 – Sept 3, 2022_. [poster]
+
+**Pace R**, Chiocchini F, Ciolfi M, Endreny TA, Grote R (2022) Mapping the impact of tree cover on heat wave and rainfall runoff mitigation in the city of Karlsruhe, Germany. _Smart and Sustainable Planning for Cities and Regions (SSPCR), Bolzano-Bozen, 19-22 Jul 2022_. [oral presentation]
+
 Gaglio M, **Pace R**, Muresan AN, Grote R, Castadelli G, Calfapietra C, Fano EA (2022) Efficienza specie-specifica nella rimozione del PM2.5 da parte degli alberi urbani: dalla misura sperimentale dell’accumulo di particolato alla stima modellistica basata sui tratti fogliari. _XIII National Congress SISEF, Orvieto (TR), 30 May - 2 Jun 2022_. [oral presentation]
 
 **Pace R**, Chiocchini F, Sarti M, Chiocchini R, Ferrara A, Endreny TA, Calfapietra C, Ciolfi M (2022) Assessing the effects of tree cover on urban heat mitigation and population health. _XIII National Congress SISEF, Orvieto (TR), 30 May - 2 Jun 2022_. [oral presentation]
