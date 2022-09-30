@@ -5,6 +5,8 @@ academia: true
 ---
 
 ## Peer-reviewed articles
+**Pace R**, Chiocchini F*, Sarti M, Endreny TA, Calfapietra C, Ciolfi M (2022) Integrating Copernicus land cover data into the i-Tree Cool Air model to evaluate and map urban heat mitigation by tree cover, _European Journal of Remote Sensing_. https://doi.org/10.1080/22797254.2022.2125833
+
 Gaglio M, **Pace R***, Muresan AN, Grote R, Castaldelli G, Calfapietra C, Fano EA. (2022) Species-specific efficiency in PM2.5 removal by urban trees: From leaf measurements to improved modeling estimates. _Science of The Total Environment_ 844. https://doi.org/10.1016/j.scitotenv.2022.157131
 
 **Pace R***, Masini E, Giuliarelli D, Biagiola L, Tomao A, Guidolotti G, Agrimi M, Portoghesi L, De Angelis P, Calfapietra, C. (2022) Tree measurements in the urban environment: insights from traditional and digital field instruments to smartphone applications. _Arboriculture & Urban Forestry_ 48(2):113-123. https://doi.org/10.48044/jauf.2022.009

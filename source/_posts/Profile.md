@@ -16,7 +16,7 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
     **Postdoctoral researcher 
     Karlsruhe Institute of Technology (KIT), Institute of Meteorology and Climate Research (IMK-IFU), Garmisch-Partenkirchen, Germany**
     GrüneLunge project 2.0 - Transformation towards resilient urban forests
-    https://www.projekt-gruenelunge.de/en/gr%C3%BCnelunge-2-0-since-2021/
+    https://www.projekt-gruenelunge.de/
     KIT Profile: https://www.imk-ifu.kit.edu/english/staff_Rocco.Pace.php
     Plant Ecophysiology Lab: https://ecophys.imk-ifu.kit.edu/ 
 
@@ -25,6 +25,7 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
     National Research Council (CNR), Research Institute on Terrestrial Ecosystems (IRET), Porano, TR, Italy**
     Implementation and validation of a model to estimate the deposition of air pollutants based on the morphological and physiological characteristics of trees as well as on microclimatic conditions considering also extreme climatic events.
     Supervisor: _Dr. Carlo Calfapietra_
+    https://publications.cnr.it/authors/roccopace
 
 -   *May - Jun 2019*
     **Research visit
