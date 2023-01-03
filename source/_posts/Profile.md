@@ -23,6 +23,8 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
 -   *May 2020 - May 2022*
     **Research Fellow 
     National Research Council (CNR), Research Institute on Terrestrial Ecosystems (IRET), Porano, TR, Italy**
+    Project EUFORICC − Establishing Urban Forest based solutions In Changing Cities
+    (PRIN 20173RRN2S) https://www.euforicc.it/
     Implementation and validation of a model to estimate the deposition of air pollutants based on the morphological and physiological characteristics of trees as well as on microclimatic conditions considering also extreme climatic events.
     Supervisor: _Dr. Carlo Calfapietra_
     https://publications.cnr.it/authors/roccopace
