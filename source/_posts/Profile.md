@@ -5,14 +5,21 @@ academia: true
 ---
 ## Research Interests
 
-My research interests are in urban forest modeling and tree ecophysiology. I study the ecosystem services of urban trees to improve air quality and microclimate. The aim is to find suitable nature-based solutions to mitigate climate change and air pollution effects improving the environmental sustainability of cities.
+My research interests are in urban forestry and ecological modeling. I study the ecosystem services provided by green infrastructure to promote sustainable urban and regional development. The vision is to design low-carbon, energy-efficient and livable cities by integrating nature-based solutions.
 ``` bash
 Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechnologies - Green Cities
 ```
 
 ## Research Experience
 
--   *since May 2022*
+-   *since September 2022*
+    **Senior researcher 
+    EURAC Research, Institute for Renewable Energy, Urban and regional energy systems, Bozen-Bolzano, Italy**
+    https://www.eurac.edu/en 
+    EURAC Profile: https://www.eurac.edu/en/people/rocco-pace 
+    URS group: https://www.eurac.edu/en/institutes-centers/institute-for-renewable-energy/research-group/urban-and-regional-energy-systems 
+
+-   *May 2022 - August 2023*
     **Postdoctoral researcher 
     Karlsruhe Institute of Technology (KIT), Institute of Meteorology and Climate Research (IMK-IFU), Garmisch-Partenkirchen, Germany**
     GrüneLunge project 2.0 - Transformation towards resilient urban forests
