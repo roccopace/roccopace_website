@@ -12,7 +12,7 @@ Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechn
 
 ## Research Experience
 
--   *since September 2022*
+-   *since September 2023*
     **Senior researcher 
     EURAC Research, Institute for Renewable Energy, Urban and regional energy systems, Bozen-Bolzano, Italy**
     https://www.eurac.edu/en 
