@@ -5,6 +5,9 @@ academia: true
 ---
 
 ## Peer-reviewed articles
+
+Conte A, **Pace R**, Li Q, Carloni S, Boetzkes A, Passatore L (2024) Aula Verde (tree room) as a link between art and science to raise public awareness of nature-based solutions. _Scientific Reports_ 14, 2368. https://doi.org/10.1038/s41598-024-51611-9
+
 **Pace R**, Chiocchini F*, Sarti M, Endreny TA, Calfapietra C, Ciolfi M (2023) Integrating Copernicus land cover data into the i-Tree Cool Air model to evaluate and map urban heat mitigation by tree cover, _European Journal of Remote Sensing_ 56:1. https://doi.org/10.1080/22797254.2022.2125833
 
 Gaglio M, **Pace R***, Muresan AN, Grote R, Castaldelli G, Calfapietra C, Fano EA. (2022) Species-specific efficiency in PM2.5 removal by urban trees: From leaf measurements to improved modeling estimates. _Science of The Total Environment_ 844. https://doi.org/10.1016/j.scitotenv.2022.157131
