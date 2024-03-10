@@ -35,7 +35,7 @@ Capotorti G, Bonacquisti S*, ... **Pace R**,... & Blasi C (2020) More Nature in 
 *_corresponding author_
 
 ## Other publications
-Sgrigna G, Calfapietra C*, ... **Pace R**,... (2023) Linee Guida, Indicatori, Protocolli & Modelli. Esiti del progetto di ricerca PRIN EUFORICC. https://doi.org/10.5281/zenodo.7950680
+Sgrigna G, Calfapietra C, ... **Pace R**,... (2023) Linee Guida, Indicatori, Protocolli & Modelli. Esiti del progetto di ricerca PRIN EUFORICC. https://doi.org/10.5281/zenodo.7950680
 
 **Pace R** (2020) Modeling ecosystem services of urban trees to improve air quality and microclimate. _PhD Thesis, Technische Universität München_. https://mediatum.ub.tum.de/1548491 
 
