@@ -6,6 +6,10 @@ academia: true
 
 ## Peer-reviewed articles
 
+**Pace R***, Endreny TA, Ciolfi M, Gangwisch M, Saha S, Ruehr NK, Grote R (2025) Mitigation potential of urban greening during heatwaves and stormwater events: a modeling study for Karlsruhe, Germany. _Scientific Reports_ 15, 5308. https://doi.org/10.1038/s41598-025-89842-z
+
+Guidolotti G, Zenone T*, Endreny TA, **Pace R**, Ciolfi M, Mattioni M, Pallozzi E, Rezaie N, Bertolini B, Corradi C, Calfapietra C (2025) Impact of drought on cooling capacity and carbon sequestration in urban green area. _Urban Climate_ 59, 102244. https://doi.org/10.1016/j.uclim.2024.102244.
+
 Conte A, **Pace R**, Li Q, Carloni S, Boetzkes A, Passatore L* (2024) Aula Verde (tree room) as a link between art and science to raise public awareness of nature-based solutions. _Scientific Reports_ 14, 2368. https://doi.org/10.1038/s41598-024-51611-9
 
 **Pace R**, Chiocchini F*, Sarti M, Endreny TA, Calfapietra C, Ciolfi M (2023) Integrating Copernicus land cover data into the i-Tree Cool Air model to evaluate and map urban heat mitigation by tree cover, _European Journal of Remote Sensing_ 56:1. https://doi.org/10.1080/22797254.2022.2125833

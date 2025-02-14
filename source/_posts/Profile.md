@@ -5,9 +5,9 @@ academia: true
 ---
 ## Research Interests
 
-My research interests are in urban forestry and ecological modeling. I study the ecosystem services provided by green infrastructure to promote sustainable urban and regional development. The vision is to design low-carbon, energy-efficient and livable cities by integrating nature-based solutions.
+My research interests are in urban greening-forestry and ecological-microclimate modeling. I study the ecosystem services provided by green infrastructure to promote sustainable urban and regional development. The vision is to design low-carbon, energy-efficient and livable cities by integrating nature-based solutions.
 ``` bash
-Urban Forestry - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechnologies - Green Cities
+Urban Forestry - Urban Greening - Modeling - Tree Ecophysiology - Ecosystem Services - PhytoTechnologies - Green Cities - Air quality - Microclimate
 ```
 
 ## Research Experience
