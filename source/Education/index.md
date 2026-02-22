@@ -4,6 +4,11 @@ date: 2022-01-13 12:35:08
 academia: true
 ---
 
+-   _Mar 2025_
+    __National Scientific Habilitation as Associate Professor__
+    05/A1 - BOTANICA 
+    07/B2 - SCIENZE E TECNOLOGIE DEI SISTEMI ARBOREI E FORESTALI
+
 -   _Nov 2021_
     __Professional Habilitation to practice as Agronomist and Forester__
     State Exam, University of Tuscia, Viterbo, Italy

@@ -6,6 +6,8 @@ academia: true
 
 ## Peer-reviewed articles
 
+**Pace R***, Chen Y, Zarei M, Grazieschi G, Pinotti R, Siclari I, Callegher Zandonella C, Gantioler S (2026) Nature-based solutions: Thermal and environmental benefits of high-biodiversity and biosolar roofs in the Bolzano industrial zone. _In: Berardi, U., António, J., Simões, N. (eds) Construction, Energy, Environment and Sustainability. ICCEES 2025. Lecture Notes in Civil Engineering. Springer, Singapore._ vol 745. https://doi.org/10.1007/978-981-95-1818-0_30
+
 **Pace R***, Endreny TA, Ciolfi M, Gangwisch M, Saha S, Ruehr NK, Grote R (2025) Mitigation potential of urban greening during heatwaves and stormwater events: a modeling study for Karlsruhe, Germany. _Scientific Reports_ 15, 5308. https://doi.org/10.1038/s41598-025-89842-z
 
 Guidolotti G, Zenone T*, Endreny TA, **Pace R**, Ciolfi M, Mattioni M, Pallozzi E, Rezaie N, Bertolini B, Corradi C, Calfapietra C (2025) Impact of drought on cooling capacity and carbon sequestration in urban green area. _Urban Climate_ 59, 102244. https://doi.org/10.1016/j.uclim.2024.102244.
