@@ -6,6 +6,8 @@ academia: true
 
 ## Peer-reviewed articles
 
+Antenucci E, Di Pirro E, van den Bosch M, **Pace R**, Lasserre B, Marchetti M, Garfì V (2026) Beyond tree cover: Vertical canopy structure is associated with the cooling impact of pocket parks in Mediterranean cities. _Urban Forestry & Urban Greening_ 119, 129371. https://doi.org/10.1016/j.ufug.2026.129371
+
 **Pace R***, Chen Y, Zarei M, Grazieschi G, Pinotti R, Siclari I, Callegher Zandonella C, Gantioler S (2026) Nature-based solutions: Thermal and environmental benefits of high-biodiversity and biosolar roofs in the Bolzano industrial zone. _In: Berardi, U., António, J., Simões, N. (eds) Construction, Energy, Environment and Sustainability. ICCEES 2025. Lecture Notes in Civil Engineering. Springer, Singapore._ vol 745. https://doi.org/10.1007/978-981-95-1818-0_30
 
 **Pace R***, Endreny TA, Ciolfi M, Gangwisch M, Saha S, Ruehr NK, Grote R (2025) Mitigation potential of urban greening during heatwaves and stormwater events: a modeling study for Karlsruhe, Germany. _Scientific Reports_ 15, 5308. https://doi.org/10.1038/s41598-025-89842-z
